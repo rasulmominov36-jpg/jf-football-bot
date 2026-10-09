@@ -15,8 +15,8 @@ Imkoniyatlar:
 #   SOZLAMALAR: faqat shu yerni to'ldiring (qolgan joyga tegmang)
 # ============================================================================
 BOT_TOKEN = "8641078083:AAFP_iqEYRAd5hu-hPohVPcEnXyXri23W0M"            # @BotFather bergan token
-ADMIN_IDS = [7751663775]                              # o'zingizning Telegram ID raqamingiz: [123456789] yoki bir nechta: [111, 222]
-WEBAPP_URL = "https://rasulmominov36-jpg.github.io/JonimFutbolimQuiz9/"       # test saytingiz manzili (faqat https://)
+ADMIN_IDS = [7751663775, 6963372023, 121323675]                              # o'zingizning Telegram ID raqamingiz: [123456789] yoki bir nechta: [111, 222]
+WEBAPP_URL = "https://rasulmominov36-jpg.github.io/JonimFutbolimQuiz/"       # test saytingiz manzili (faqat https://)
 LOGO = "https://i.ibb.co/C57RNJ4f/jonim-JF.jpg"   # /start dagi logo (havola yoki fayl yo'li)
 # ============================================================================
 
